@@ -6,4 +6,4 @@
 
 ![Note Taker Gif](assets/noteTaker.gif)
 
-link to deployed application: https://dashboard.heroku.com/apps/pure-forest-47241/access
+link to deployed application: https://pure-forest-47241.herokuapp.com/
